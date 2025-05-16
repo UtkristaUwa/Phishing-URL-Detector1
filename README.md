@@ -2,6 +2,7 @@ Phishing attacks remain one of the most common cyber threats, aiming to trick us
 
 
 Objectives
+
 To develop a model that can automatically classify URLs as phishing or legitimate.
 
 To extract meaningful features from URLs that indicate phishing characteristics.
