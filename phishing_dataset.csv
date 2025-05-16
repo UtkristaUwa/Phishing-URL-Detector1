@@ -1,0 +1,11 @@
+url,label
+http://example.com,0
+https://secure-login.com,1
+http://192.168.1.1/login,1
+https://trusted-site.org,0
+http://freegiftcards.win,1
+https://mybank.com,0
+http://secure-account-update.com,1
+https://online-shop.com,0
+http://paypal-secure-login.info,1
+https://example.org,0
